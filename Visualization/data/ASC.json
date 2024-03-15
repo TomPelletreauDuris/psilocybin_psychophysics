@@ -1,0 +1,566 @@
+[
+    {
+        "ID": 1,
+        "phrase": "I felt that I was in a wonderful other world.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 2,
+        "phrase": "My thoughts and actions were slowed down.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 3,
+        "phrase": "Bodily sensations were very enjoyable.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 4,
+        "phrase": "I heard single words without knowing where they came from.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 5,
+        "phrase": "I heard rings and tones without knowing where they came from.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 6,
+        "phrase": "I felt as if dark forces had overtaken me.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 7,
+        "phrase": "I saw things I knew were not real.",
+        "cat_5D": "VRS",
+        "cat_11D": ""
+    },
+    {
+        "ID": 8,
+        "phrase": "I felt like a puppet or marionette.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 9,
+        "phrase": "I felt connected to a higher power.",
+        "cat_5D": "OBN",
+        "cat_11D": "SE"
+    },
+    {
+        "ID": 10,
+        "phrase": "I felt sleepy.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 11,
+        "phrase": "A melody occurred to me that I had to constantly repeat.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 12,
+        "phrase": "I experienced boundless pleasure.",
+        "cat_5D": "OBN",
+        "cat_11D": "BS"
+    },
+    {
+        "ID": 13,
+        "phrase": "Meaningless noises sounded like real words or phrases.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 14,
+        "phrase": "I saw regular patterns with closed eyes or in complete darkness.",
+        "cat_5D": "VRS",
+        "cat_11D": "EI"
+    },
+    {
+        "ID": 15,
+        "phrase": "I felt drunk.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 16,
+        "phrase": "I felt I was being transformed forever in a miraculous way.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 17,
+        "phrase": "I felt that I was on the verge of unconsciousness.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 18,
+        "phrase": "Everything seemed to unify into a oneness.",
+        "cat_5D": "OBN",
+        "cat_11D": "EU"
+    },
+    {
+        "ID": 19,
+        "phrase": "I heard my thoughts as if I had spoken them out loud.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 20,
+        "phrase": "Sounds seemed to influence what I saw.",
+        "cat_5D": "VRS",
+        "cat_11D": "AVS"
+    },
+    {
+        "ID": 21,
+        "phrase": "I felt tormented.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 22,
+        "phrase": "I saw colors with closed eyes or in complete darkness.",
+        "cat_5D": "VRS",
+        "cat_11D": "EI"
+    },
+    {
+        "ID": 23,
+        "phrase": "Shapes seemed to be changed by sounds or noises.",
+        "cat_5D": "VRS",
+        "cat_11D": "AVS"
+    },
+    {
+        "ID": 24,
+        "phrase": "I perceived everything as blurry, as if through a kind of fog.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 25,
+        "phrase": "A voice commented on everything I thought although no one was there.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 26,
+        "phrase": "I felt as if I no longer had a body.",
+        "cat_5D": "OBN",
+        "cat_11D": "DE"
+    },
+    {
+        "ID": 27,
+        "phrase": "I felt incapable of making even the smallest decision.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 28,
+        "phrase": "Some everyday things acquired special meaning.",
+        "cat_5D": "VRS",
+        "cat_11D": "CMP"
+    },
+    {
+        "ID": 29,
+        "phrase": "I felt drowsy.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 30,
+        "phrase": "I heard complete sentences without knowing where they came from.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 31,
+        "phrase": "Things in my environment had a new strange meaning.",
+        "cat_5D": "VRS",
+        "cat_11D": "CMP"
+    },
+    {
+        "ID": 32,
+        "phrase": "I was afraid that the state I was in would last forever.",
+        "cat_5D": "DED",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 33,
+        "phrase": "I saw brightness or flashes of light with closed eyes or in complete darkness.",
+        "cat_5D": "VRS",
+        "cat_11D": "EI"
+    },
+    {
+        "ID": 34,
+        "phrase": "I felt one with my surroundings.",
+        "cat_5D": "OBN",
+        "cat_11D": "EU"
+    },
+    {
+        "ID": 35,
+        "phrase": "Worries and anxieties of everyday life felt unimportant.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 36,
+        "phrase": "My sense of time and space was altered as if I was dreaming.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 37,
+        "phrase": "My perception was blurred.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 38,
+        "phrase": "I had difficulties in distinguishing important from unimportant.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 39,
+        "phrase": "I saw whole scenes roll by with closed eyes or in complete darkness.",
+        "cat_5D": "VRS",
+        "cat_11D": "CI"
+    },
+    {
+        "ID": 40,
+        "phrase": "I felt extraordinary powers within myself.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 41,
+        "phrase": "I experienced a touch of eternity.",
+        "cat_5D": "OBN",
+        "cat_11D": "EU"
+    },
+    {
+        "ID": 42,
+        "phrase": "Conflicts and contradictions seemed to dissolve.",
+        "cat_5D": "OBN",
+        "cat_11D": "EU"
+    },
+    {
+        "ID": 43,
+        "phrase": "I was scared without knowing exactly why.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 44,
+        "phrase": "I experienced everything as frighteningly distorted.",
+        "cat_5D": "DED",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 45,
+        "phrase": "The world seemed to me beyond good and evil.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 46,
+        "phrase": "I experienced my surroundings as strange and weird.",
+        "cat_5D": "DED",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 47,
+        "phrase": "I felt as if I were paralyzed.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 48,
+        "phrase": "I heard music without knowing where it came from.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 49,
+        "phrase": "I heard something faintly that I could not identify.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 50,
+        "phrase": "I felt very profound.",
+        "cat_5D": "OBN",
+        "cat_11D": "IS"
+    },
+    {
+        "ID": 51,
+        "phrase": "I felt numb.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 52,
+        "phrase": "I experienced past, present, and future as a oneness.",
+        "cat_5D": "OBN",
+        "cat_11D": "EU"
+    },
+    {
+        "ID": 53,
+        "phrase": "I experienced unbearable emptiness.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 54,
+        "phrase": "Objects in my surroundings engaged me emotionally much more than usual.",
+        "cat_5D": "VRS",
+        "cat_11D": "CMP"
+    },
+    {
+        "ID": 55,
+        "phrase": "From an initially diffuse noise, which I could not identify as real, clear rings and tones evolved.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 56,
+        "phrase": "I felt threatened.",
+        "cat_5D": "DED",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 57,
+        "phrase": "Many things appeared to me as breathtakingly beautiful.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 58,
+        "phrase": "Things came to my mind that I thought long forgotten.",
+        "cat_5D": "VRS",
+        "cat_11D": ""
+    },
+    {
+        "ID": 59,
+        "phrase": "I felt like I do shortly before falling asleep.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 60,
+        "phrase": "My body felt numb, lifeless, and/or alien.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 61,
+        "phrase": "I felt as if I was half-asleep.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 62,
+        "phrase": "I had the impression I was out of my body.",
+        "cat_5D": "OBN",
+        "cat_11D": "DE"
+    },
+    {
+        "ID": 63,
+        "phrase": "I felt as if I was floating.",
+        "cat_5D": "OBN",
+        "cat_11D": "DE"
+    },
+    {
+        "ID": 64,
+        "phrase": "I felt isolated from everything and everyone.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 65,
+        "phrase": "I heard voices that did not come from the surroundings as usual.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 66,
+        "phrase": "I heard something like a buzzing, swooshing, or humming without recognizing the cause.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 67,
+        "phrase": "I was not able to complete a thought; my thoughts repeatedly became disconnected.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 68,
+        "phrase": "I felt I was about to fall asleep.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 69,
+        "phrase": "I had insights into connections that had previously puzzled me.",
+        "cat_5D": "OBN",
+        "cat_11D": "IS"
+    },
+    {
+        "ID": 70,
+        "phrase": "Many things seemed incredibly funny to me.",
+        "cat_5D": "VRS",
+        "cat_11D": ""
+    },
+    {
+        "ID": 71,
+        "phrase": "The boundaries between myself and my surroundings seemed to blur.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 72,
+        "phrase": "I could see images from my memory or imagination with extreme clarity.",
+        "cat_5D": "VRS",
+        "cat_11D": "CI"
+    },
+    {
+        "ID": 73,
+        "phrase": "I felt totally free and released from all obligations.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 74,
+        "phrase": "I heard diffuse noises without knowing where they came from.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 75,
+        "phrase": "The colors of things seemed to be altered by sounds or noises.",
+        "cat_5D": "VRS",
+        "cat_11D": "AVS"
+    },
+    {
+        "ID": 76,
+        "phrase": "Sounds and noises were fainter than usual.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 77,
+        "phrase": "I had very original thoughts.",
+        "cat_5D": "VRS",
+        "cat_11D": "IS"
+    },
+    {
+        "ID": 78,
+        "phrase": "I had the feeling that I no longer had my own will.",
+        "cat_5D": "DED",
+        "cat_11D": "ICC"
+    },
+    {
+        "ID": 79,
+        "phrase": "I was afraid of losing control over myself.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 80,
+        "phrase": "I stayed frozen in a very unnatural position for an extended period of time.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 81,
+        "phrase": "I experienced a kind of awe.",
+        "cat_5D": "OBN",
+        "cat_11D": "SE"
+    },
+    {
+        "ID": 82,
+        "phrase": "My imagination was extremely vivid.",
+        "cat_5D": "VRS",
+        "cat_11D": "CI"
+    },
+    {
+        "ID": 83,
+        "phrase": "Things in my surroundings appeared smaller or larger.",
+        "cat_5D": "VRS",
+        "cat_11D": ""
+    },
+    {
+        "ID": 84,
+        "phrase": "I felt exhausted.",
+        "cat_5D": "VIR",
+        "cat_11D": ""
+    },
+    {
+        "ID": 85,
+        "phrase": "Time passed slowly in a tormenting way.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 86,
+        "phrase": "I experienced profound inner peace.",
+        "cat_5D": "OBN",
+        "cat_11D": "BS"
+    },
+    {
+        "ID": 87,
+        "phrase": "Everything around me seemed to be animated with life.",
+        "cat_5D": "OBN",
+        "cat_11D": ""
+    },
+    {
+        "ID": 88,
+        "phrase": "Everything happened so fast that I could not follow it all.",
+        "cat_5D": "DED",
+        "cat_11D": ""
+    },
+    {
+        "ID": 89,
+        "phrase": "I had the feeling that something terrible was going to happen.",
+        "cat_5D": "DED",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 90,
+        "phrase": "I was able to remember certain events with exceeding clarity.",
+        "cat_5D": "VRS",
+        "cat_11D": ""
+    },
+    {
+        "ID": 91,
+        "phrase": "I experienced an all-embracing love.",
+        "cat_5D": "OBN",
+        "cat_11D": "BS"
+    },
+    {
+        "ID": 92,
+        "phrase": "There were sounds in the room that I feel were unlikely to have been real.",
+        "cat_5D": "AUA",
+        "cat_11D": ""
+    },
+    {
+        "ID": 93,
+        "phrase": "I heard a ticking, knocking, ringing, or rattling without being able to recognize the cause.",
+        "cat_5D": "AUA",
+        "cat_11D": "ANX"
+    },
+    {
+        "ID": 94,
+        "phrase": "My experience had religious aspects to it.",
+        "cat_5D": "OBN",
+        "cat_11D": "SE"
+    }
+]
